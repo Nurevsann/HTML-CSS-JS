@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Nurevşan Kurak</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <h1>NUREVŞAN KURAK</h1><!--Adım ve soyadımın başlık şeklinde görünmesi için en büyük puntoda olan h1 etiketini kullandım-->
+</head>
+<body>
+    <h3>Hakkımda</h3>
+    <p>Merhaba.Ben Nurevşan Kurak!Ankara'da yaşıyorum.Bilimkurgu izlemeyi ve okumayı çok seviyorum.Mabel Matiz dinlemeye bayılıyorum. Patika.Dev'le öğrenmeye sizleri de davet ediyorum.
+    </p> <!--Açıklama kısmını paragraf etiketiyle yazmayı tercih ettim-->
+    <h2>Sevdiğim Filmler</h2><!--Alt alta iki başlık kullacağım için ilk başlık daha büyük olsun diye h2 diğer başlık daha küçük görünsün diye h3 kullandım-->
+    <h3>Harry Potter Serisi</h3>
+    <p>Harry Potter ve Felsefe Taşı	2001	
+        Harry Potter ve Sırlar Odası	2002
+        Harry Potter ve Azkaban Tutsağı	2004	
+        Harry Potter ve Ateş Kadehi	2005	
+        Harry Potter ve Zümrüdüanka Yoldaşlığı	2007	
+        Harry Potter ve Melez Prens	2009
+        Harry Potter ve Ölüm Yadigârları: Bölüm 1	2010
+        Harry Potter ve Ölüm Yadigârları: Bölüm 2	2011</p><!--Liste görünüm için li etiketi kullanılabilir ancak ben paragraf görünüm için p etiketi kullandım.-->
+</body>
+</html> 
